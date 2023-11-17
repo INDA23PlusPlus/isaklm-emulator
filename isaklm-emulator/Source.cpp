@@ -658,7 +658,7 @@ int main()
 	std::vector<uint16_t> memory((1 << 16), 0);
 
 
-	std::vector<uint16_t> program = load_program("fibonacci.txt");
+	std::vector<uint16_t> program = load_program("primes.txt");
 
 	while (true)
 	{

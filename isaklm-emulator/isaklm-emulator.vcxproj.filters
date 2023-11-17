@@ -21,5 +21,6 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="fibonacci.txt" />
+    <Text Include="primes.txt" />
   </ItemGroup>
 </Project>
